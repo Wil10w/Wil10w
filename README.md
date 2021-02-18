@@ -7,7 +7,6 @@ builidng GUIs in PyQT5 and TKinter. I am delving into selenium and webscraping, 
 
 - 💞️ I’m looking to collaborate on... well, I don't know what I can really help with. 
 - 
-📫 How to reach me will033@live.com.au
 
 
 <!---
